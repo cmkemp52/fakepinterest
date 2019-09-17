@@ -1,0 +1,12 @@
+body {
+    display: grid;
+    grid-row-gap: 25px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    background-color: bisque;
+}
+
+img {
+    padding-top:10px;
+    width: 230;
+    border-radius: 25px;
+}
